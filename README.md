@@ -19,7 +19,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Add branch protections
+## Step 5: Add branch protections
 
 _Great job uploading test reports! :partying_face:_
 
